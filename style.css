@@ -1,0 +1,29 @@
+body{
+background-color: Green;border: dashed; border-width: 10px; margin-top: 0px;
+}
+h2{
+  margin:0px;padding:0px;border:10px;
+}
+h2 img {background-image:url(http://vignette3.wikia.nocookie.net/fallout/images/8/81/Fallout-3-1010.jpg/revision/latest?cb=20100113030549);height:300px; padding: 0 0 0 0; float:center; margin:0px;
+margin:0px;
+}
+
+h1 {color:white;font-weight: bold; font-size: 80pt; font-family: Impact;
+  text-align: center;
+border: dashed; border-width: 10px;
+}
+
+table{ position:center; width: 100%;
+}
+
+.chart{
+height:50px;
+width:20%;
+border:3px
+dashed black;
+font-family: Garamond;
+font-size: 20px;
+}
+.chart img {height:100px;}
+
+p {padding-left:150px; padding-right:150px;font-style: Garamond, sans-serif; font-weight: italic; font-size: 32px;}
